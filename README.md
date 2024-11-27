@@ -24,5 +24,7 @@ Have fun! :D
 Made by: Stevan Takovac, stevan.takovac@gmail.com
 
 FONT: https://www.dafont.com/w95fa.font
+
 SOUNDS: UI Soundpack by Nathan Gibson (https://nathangibson.myportfolio.com)
+
 CURSOR: https://commons.wikimedia.org/wiki/File:Cursor_icon_with_shadow.png
