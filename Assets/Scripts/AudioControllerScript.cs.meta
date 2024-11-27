@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb5bd15413144a64280b6d5c89e6181d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - source: {instanceID: 0}
+  - buttonClick: {fileID: 8300000, guid: 8b1d92354647eb447a9425f0948107b8, type: 3}
+  - waterClick: {fileID: 8300000, guid: 7a8f9ba2e40b3a045b4e1eccd9d2592f, type: 3}
+  - correctClick: {fileID: 8300000, guid: 6dcb3c8987d7af048803afd8ad2f72a4, type: 3}
+  - wrongClick: {fileID: 8300000, guid: 20cc656b57bf8a64ba1743e152d93d24, type: 3}
+  - success: {fileID: 8300000, guid: e8c0bfebdbcffba4ea3ba827d2cabc88, type: 3}
+  - failure: {fileID: 8300000, guid: b038b0515853fbd48b081dbad0d4b887, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
